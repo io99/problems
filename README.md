@@ -1,2 +1,1 @@
-# problems
-Solutions to algorithms 
+A collection of mini projects done overr time to improve my python skills
