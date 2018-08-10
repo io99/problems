@@ -1,0 +1,16 @@
+Deep Learning AI
+First video
+
+Supervised Neural Networks
+
+Basically you give an inputs x1, x2, x3, (in simple words, different features). Each neuron takes every single input and gives you a Y.
+
+For image data we'll use convolutional neural networks
+Things like housing predictions we use SNN (standard neural networks)
+
+Structured and Unstructured data
+Structured is basically the csv file type stuff while unstructured is video, image, audio and other stuff.
+
+WHy is deep learning taking off?
+Over the years, when we used logistic regression etc and added more data, there was slight improvement, then the graph became flat again. On the other hand, neural networks, started dramatically increasing performance plus cloud providers started popping up which wasn't traditionally available.
+
