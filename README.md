@@ -1,1 +1,1 @@
-Collection of mini projects
+Collection of mini projects + practice sessions
